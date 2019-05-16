@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">ARA</string>
+    <string name="login_rus">Войти</string>
+    <string name="login_kaz">Кіру</string>
+    <string name="login_eng">Sign in</string>
+    <string name="authorization_rus">Авторизация</string>
+    <string name="authorization_eng">Authorization</string>
+    <string name="login_ET_eng">email</string>
+    <string name="password_eng">password</string>
+    <string name="login_ET_rus">email</string>
+    <string name="password_rus">пароль</string>
+    <string name="login_ET_kaz">email</string>
+    <string name="password_kaz">құпия сөзі</string>
+    <string name="kz">KZ</string>
+    <string name="ru">RU</string>
+    <string name="en">EN</string>
+    <string name="register_rus">Зарегистрироваться</string>
+    <string name="register_kaz">Тіркелу</string>
+    <string name="register_eng">Sign up</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="cancel">Отменить</string>
+    <string name="enterNumber">Введите свой номер телефона</string>
+    <string name="phoneNumber">Ваш номер телефона</string>
+    <string name="verificationCode">Отправить код подтверждения</string>
+    <string name="sms_ru">Приложение SMS.RU отправит вам СМС-соощение с кодом
+        подтверждения вашего номера телефона.
+        За передачу данных может взиматься дополнительная плата.</string>
+    <string name="sms_kz">Сіздің ұялы телефоныңызға SMS.RU қосымша бағдарламасынан растау коды бар СМС-хабарламасы жіберіледі.
+        Деректерді табыстау үшін қосымша төлем алыну мүмкін.</string>
+    <string name="sms_en">The SMS.RU application will send you an SMS message with a verification code for your phone number.
+         Data transfer charges may apply.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_ET">Name</string>
+    <string name="price_ET">Price</string>
+    <string name="description_ET">Description</string>
+    <string name="create_btn">Create</string>
+    <string name="userName_TV">Придумайте логин:</string>
+    <string name="createPassword">Придумайте пароль:</string>
+    <string name="createUserButton">Создать профиль</string>
+    <string name="verificationCodeTV">Введите код подтверждения:</string>
+    <string name="notifcation">К сожалению, в данный момент сервер не может
+        принять информацию, поэтому, ваши данные будут сохранены на телефон</string>
+    <string name="AppTheme">Изменить тему</string>
+    <string name="AppThemeKz">Теманы өзгерту</string>
+    <string name="AppThemeEn">Change theme</string>
+    <string name="appSettings">Изменить язык</string>
+    <string name="appSettingsKz">Тілді өзгерту</string>
+    <string name="appSettingsEn">Change language</string>
+    <string name="exit">Выход</string>
+    <string name="exitKz">Шыгу</string>
+    <string name="exitEn">Exit</string>
+    <string name="blueTheme">Синяя тема</string>
+    <string name="blueThemeKz">Көк түсті аясы</string>
+    <string name="blueThemeEn">Blue theme</string>
+    <string name="greenTheme">Зелёная тема</string>
+    <string name="greenThemeKz">Жасыл түсті аясы</string>
+    <string name="greenThemeEn">Green theme</string>
+    <string name="goBack">Назад</string>
+    <string name="goBackKz">Артқа қайту</string>
+    <string name="goBackEn">Cancel</string>
+    <string name="kzLanguage">Қазақ</string>
+    <string name="ruLanguage">Русский</string>
+    <string name="enLanguage">English</string>
+</resources>
